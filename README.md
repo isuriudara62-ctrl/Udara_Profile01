@@ -40,4 +40,4 @@ I'm always learning, and I'm currently exploring **React** and **databases**.
 
 ## 📫 Find Me On GitHub
 
-- GitHub: [@Udara_Profile01](https://github.com/Udara_Profile01)
+- GitHub: [@Udara-01profile](https://github.com/Udara-01profile)
